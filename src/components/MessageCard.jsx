@@ -13,19 +13,19 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `Vibhuti,
 
-Your personalized birthday message goes here.
+Sometimes I sit and think about how lucky I am to have grown up with you by my side. From our childhood days filled with silly fights, laughter, secrets, and shared dreams, to growing into who we are today—every phase of my life has your presence written all over it. You’re not just someone I grew up with, you’re someone I grew into life with. You’ve seen every version of me—the confused one, the strong one, the broken one, and the happy one—and you loved me through all of it without ever leaving my side. No matter how chaotic life got, I always knew I had you. With you, I never had to pretend or explain myself. You understood me even when I didn’t have the words.
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
+We’ve shared so many memories—inside jokes only we understand, late-night talks, random laughter, childhood mischief, and moments that only we can ever truly relate to. Those memories are some of the most precious parts of my life, and you’re the reason they mean so much.
 
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+Thank you for being my safe place, my biggest supporter, and my constant strength. Thank you for standing by me when the world felt heavy and for celebrating me when I succeeded. Life hasn’t always been easy, but having you made everything lighter and more meaningful.
+On your birthday, I just want you to know how deeply loved and valued you are. You deserve all the happiness, peace, and success this world has to offer. May this year bring you closer to your dreams and fill your life with love, health, and endless smiles.No matter where life takes us, no matter how much we grow or change, one thing will always remain the same—you and I, side by side, just like we’ve been since childhood. I’m so proud to call you my sister, and even prouder to call you my best friend.
 
-Happy Birthday! 🎉
+Happy Birthday, my heart 💕
+Always and forever, here for you. 🌸✨
 
-— [Your Name]`;
+— Shambhavi`;
 
   // Handle page transitions
   useEffect(() => {
